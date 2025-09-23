@@ -1,6 +1,6 @@
 ![Kumbaya Logo](https://github.com/Kumbaya-xyz/brand-assets/blob/main/logos/red/full-200.png?raw=true)
 
-These assets are licenced to Kumbaya and are licenced for public use.
+These assets are licenced to Kumbaya and are for public use.
 
 ## Contents
 * [Logos](https://github.com/Kumbaya-xyz/brand-assets/tree/main/logos)
