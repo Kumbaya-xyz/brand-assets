@@ -1,6 +1,6 @@
 # Kumbaya Brand Assets
 
-![Kumbaya Logo](with-logo/full-rectangle/full-logo-red.svg)
+![Kumbaya Logo](https://github.com/Kumbaya-xyz/brand-assets/blob/main/logos/red/full-200.png?raw=true)
 
 Official brand assets for Kumbaya. These assets are licensed to Kumbaya and are available for public use.
 
@@ -8,6 +8,8 @@ Official brand assets for Kumbaya. These assets are licensed to Kumbaya and are 
 
 ```
 brand-assets/
+├── logos/              # Pre-sized logos for README headers
+│   └── red/
 ├── text-only/          # Text-only logos (no icon)
 │   ├── red/
 │   └── black-inverse/
@@ -18,6 +20,13 @@ brand-assets/
 ```
 
 ## Assets
+
+### Documentation Headers
+Pre-sized logos optimized for use in README files and documentation.
+
+| Variant | File |
+|---------|------|
+| Red (200px) | [PNG](logos/red/full-200.png) |
 
 ### Text Only
 Wordmark logos without the K icon.
