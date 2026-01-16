@@ -31,13 +31,23 @@ Pre-sized logos optimized for use in README files and documentation.
 ### Text Only
 Wordmark logos without the K icon.
 
+#### Red
+![Text Only - Red Full](https://github.com/Kumbaya-xyz/brand-assets/blob/main/text-only/red/full@1x.png?raw=true)
+![Text Only - Red Square](https://github.com/Kumbaya-xyz/brand-assets/blob/main/text-only/red/square@1x.png?raw=true)
+
+#### Black Inverse
+![Text Only - Black Inverse Full](https://github.com/Kumbaya-xyz/brand-assets/blob/main/text-only/black-inverse/full@1x.png?raw=true)
+![Text Only - Black Inverse Square](https://github.com/Kumbaya-xyz/brand-assets/blob/main/text-only/black-inverse/square@1x.png?raw=true)
+
 | Variant | Full | Square |
 |---------|------|--------|
-| Red | [SVG](text-only/red/full.svg) | [SVG](text-only/red/square.svg) |
-| Black Inverse | [SVG](text-only/black-inverse/full.svg) | [SVG](text-only/black-inverse/square.svg) |
+| Red | [SVG](text-only/red/full.svg) [PNG @1x](text-only/red/full@1x.png) [PNG @2x](text-only/red/full@2x.png) [PNG @3x](text-only/red/full@3x.png) | [SVG](text-only/red/square.svg) [PNG @1x](text-only/red/square@1x.png) [PNG @2x](text-only/red/square@2x.png) [PNG @3x](text-only/red/square@3x.png) |
+| Black Inverse | [SVG](text-only/black-inverse/full.svg) [PNG @1x](text-only/black-inverse/full@1x.png) [PNG @2x](text-only/black-inverse/full@2x.png) [PNG @3x](text-only/black-inverse/full@3x.png) | [SVG](text-only/black-inverse/square.svg) [PNG @1x](text-only/black-inverse/square@1x.png) [PNG @2x](text-only/black-inverse/square@2x.png) [PNG @3x](text-only/black-inverse/square@3x.png) |
 
 ### Logo Only (K Icon)
 The K icon without text, available in multiple color variants.
+
+![Logo Only - Red](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/logo-only/kumbaya-icon-red@1x.png?raw=true)
 
 | Variant | SVG | PNG @1x | PNG @2x | PNG @3x |
 |---------|-----|---------|---------|---------|
@@ -50,6 +60,8 @@ The K icon without text, available in multiple color variants.
 ### Full Rectangle (Horizontal)
 Horizontal logo with K icon and wordmark.
 
+![Full Rectangle - Red](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-rectangle/full-logo-red@1x.png?raw=true)
+
 | Variant | SVG | PNG @1x | PNG @2x | PNG @3x |
 |---------|-----|---------|---------|---------|
 | Red | [SVG](with-logo/full-rectangle/full-logo-red.svg) | [PNG](with-logo/full-rectangle/full-logo-red@1x.png) | [PNG](with-logo/full-rectangle/full-logo-red@2x.png) | [PNG](with-logo/full-rectangle/full-logo-red@3x.png) |
@@ -57,6 +69,8 @@ Horizontal logo with K icon and wordmark.
 
 ### Full Square
 Square format logos with K icon and wordmark. Multiple style variants available (A-F).
+
+![Full Square - Style A](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-square/square-logo-full-a@1x.png?raw=true)
 
 | Variant | SVG | PNG @1x | PNG @2x | PNG @3x |
 |---------|-----|---------|---------|---------|
