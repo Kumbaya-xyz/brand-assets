@@ -39,15 +39,28 @@ Wordmark logos without the K icon.
 ![Text Only - Black Inverse Full](https://github.com/Kumbaya-xyz/brand-assets/blob/main/text-only/black-inverse/full@1x.png?raw=true)
 ![Text Only - Black Inverse Square](https://github.com/Kumbaya-xyz/brand-assets/blob/main/text-only/black-inverse/square@1x.png?raw=true)
 
-| Variant | Full | Square |
-|---------|------|--------|
-| Red | [SVG](text-only/red/full.svg) [PNG @1x](text-only/red/full@1x.png) [PNG @2x](text-only/red/full@2x.png) [PNG @3x](text-only/red/full@3x.png) | [SVG](text-only/red/square.svg) [PNG @1x](text-only/red/square@1x.png) [PNG @2x](text-only/red/square@2x.png) [PNG @3x](text-only/red/square@3x.png) |
-| Black Inverse | [SVG](text-only/black-inverse/full.svg) [PNG @1x](text-only/black-inverse/full@1x.png) [PNG @2x](text-only/black-inverse/full@2x.png) [PNG @3x](text-only/black-inverse/full@3x.png) | [SVG](text-only/black-inverse/square.svg) [PNG @1x](text-only/black-inverse/square@1x.png) [PNG @2x](text-only/black-inverse/square@2x.png) [PNG @3x](text-only/black-inverse/square@3x.png) |
+#### Full
+
+| Variant | SVG | PNG @1x | PNG @2x | PNG @3x |
+|---------|-----|---------|---------|---------|
+| Red | [SVG](text-only/red/full.svg) | [PNG](text-only/red/full@1x.png) | [PNG](text-only/red/full@2x.png) | [PNG](text-only/red/full@3x.png) |
+| Black Inverse | [SVG](text-only/black-inverse/full.svg) | [PNG](text-only/black-inverse/full@1x.png) | [PNG](text-only/black-inverse/full@2x.png) | [PNG](text-only/black-inverse/full@3x.png) |
+
+#### Square
+
+| Variant | SVG | PNG @1x | PNG @2x | PNG @3x |
+|---------|-----|---------|---------|---------|
+| Red | [SVG](text-only/red/square.svg) | [PNG](text-only/red/square@1x.png) | [PNG](text-only/red/square@2x.png) | [PNG](text-only/red/square@3x.png) |
+| Black Inverse | [SVG](text-only/black-inverse/square.svg) | [PNG](text-only/black-inverse/square@1x.png) | [PNG](text-only/black-inverse/square@2x.png) | [PNG](text-only/black-inverse/square@3x.png) |
 
 ### Logo Only (K Icon)
 The K icon without text, available in multiple color variants.
 
 ![Logo Only - Red](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/logo-only/kumbaya-icon-red@1x.png?raw=true)
+![Logo Only - Black](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/logo-only/kumbaya-icon-black@1x.png?raw=true)
+![Logo Only - Black + Red](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/logo-only/kumbaya-icon-black-red@1x.png?raw=true)
+![Logo Only - Black + White](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/logo-only/kumbaya-icon-black-white@1x.png?raw=true)
+![Logo Only - Black Outline](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/logo-only/kumbaya-icon-black-outline@1x.png?raw=true)
 
 | Variant | SVG | PNG @1x | PNG @2x | PNG @3x |
 |---------|-----|---------|---------|---------|
@@ -61,6 +74,7 @@ The K icon without text, available in multiple color variants.
 Horizontal logo with K icon and wordmark.
 
 ![Full Rectangle - Red](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-rectangle/full-logo-red@1x.png?raw=true)
+![Full Rectangle - Black + Red](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-rectangle/full-logo-black-red@1x.png?raw=true)
 
 | Variant | SVG | PNG @1x | PNG @2x | PNG @3x |
 |---------|-----|---------|---------|---------|
@@ -71,6 +85,11 @@ Horizontal logo with K icon and wordmark.
 Square format logos with K icon and wordmark. Multiple style variants available (A-F).
 
 ![Full Square - Style A](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-square/square-logo-full-a@1x.png?raw=true)
+![Full Square - Style B](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-square/square-logo-full-b@1x.png?raw=true)
+![Full Square - Style C](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-square/square-logo-full-c@1x.png?raw=true)
+![Full Square - Style D](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-square/square-logo-full-d@1x.png?raw=true)
+![Full Square - Style E](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-square/square-logo-full-e@1x.png?raw=true)
+![Full Square - Style F](https://github.com/Kumbaya-xyz/brand-assets/blob/main/with-logo/full-square/square-logo-full-f@1x.png?raw=true)
 
 | Variant | SVG | PNG @1x | PNG @2x | PNG @3x |
 |---------|-----|---------|---------|---------|
